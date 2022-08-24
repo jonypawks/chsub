@@ -1,0 +1,4 @@
+-cp src
+--hl bin/chsub.hl
+--main Main
+--debug

@@ -1,0 +1,17 @@
+{
+    "name": "chsub",
+    "url": "https://github.com/jonypawks/chsub",
+    "license": "MIT",
+    "tags": [
+        "cli"
+    ],
+    "description": "Change Windows executables between console and Win32 applications.",
+    "version": "0.1.0",
+    "releasenote": "initial release",
+    "contributors": [
+        "jprintz"
+    ],
+    "dependencies": {},
+    "classPath": "src",
+    "main": "Main"
+}
