@@ -6,8 +6,8 @@
         "cli"
     ],
     "description": "Change Windows executables between console and Win32 applications.",
-    "version": "0.1.0",
-    "releasenote": "initial release",
+    "version": "0.1.1",
+    "releasenote": "Fixed handling of current directory when executed through `haxelib run`.",
     "contributors": [
         "jprintz"
     ],
