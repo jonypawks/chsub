@@ -1,1 +1,2 @@
-Compress-Archive -DestinationPath chsub.zip -Path src,haxelib.json,LICENSE -Force
+haxe build.hxml
+Compress-Archive -DestinationPath chsub.zip -Path src,run.n,haxelib.json,LICENSE.md,README.md -Force

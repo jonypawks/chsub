@@ -12,6 +12,5 @@
         "jprintz"
     ],
     "dependencies": {},
-    "classPath": "src",
-    "main": "Main"
+    "classPath": "src"
 }
